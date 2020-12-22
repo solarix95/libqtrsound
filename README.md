@@ -1,0 +1,2 @@
+# libqtrsound
+libqtrsound
