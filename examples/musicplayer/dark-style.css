@@ -1,0 +1,19 @@
+QWidget {
+    background-color: black;
+    color: white;
+}
+
+
+QPushButton {
+    background-color: #262626;
+}
+
+QPushButton:checked
+{
+    background-color: red;
+}
+
+
+QSlider::handle:vertical {
+    background: white;
+}

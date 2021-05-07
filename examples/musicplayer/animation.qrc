@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>animation/frame-0.png</file>
+        <file>animation/frame-1.png</file>
+        <file>animation/frame-2.png</file>
+        <file>animation/frame-3.png</file>
+        <file>animation/frame-4.png</file>
+        <file>animation/frame-5.png</file>
+        <file>animation/frame-6.png</file>
+        <file>animation/frame-7.png</file>
+        <file>animation/frame-8.png</file>
+        <file>animation/frame-9.png</file>
+        <file>animation/frame-10.png</file>
+        <file>animation/frame-11.png</file>
+        <file>animation/frame-12.png</file>
+        <file>animation/frame-13.png</file>
+        <file>animation/frame-14.png</file>
+        <file>animation/frame-15.png</file>
+        <file>animation/frame-16.png</file>
+        <file>animation/frame-17.png</file>
+        <file>animation/frame-18.png</file>
+        <file>animation/frame-19.png</file>
+        <file>animation/frame-20.png</file>
+        <file>animation/frame-21.png</file>
+        <file>animation/frame-22.png</file>
+        <file>animation/frame-23.png</file>
+        <file>animation/frame-24.png</file>
+        <file>animation/frame-25.png</file>
+        <file>animation/frame-26.png</file>
+        <file>animation/frame-27.png</file>
+        <file>animation/frame-28.png</file>
+        <file>animation/frame-29.png</file>
+    </qresource>
+</RCC>

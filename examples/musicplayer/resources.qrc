@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/icons8-about-48.png</file>
+        <file>icons/icons8-bring-forward-48.png</file>
+        <file>icons/icons8-documents-folder-48.png</file>
+        <file>icons/icons8-end-48.png</file>
+        <file>icons/icons8-fast-forward-48.png</file>
+        <file>icons/icons8-file-48.png</file>
+        <file>icons/icons8-opened-folder-48.png</file>
+        <file>icons/icons8-pause-48.png</file>
+        <file>icons/icons8-play-48.png</file>
+        <file>icons/icons8-repeat-48.png</file>
+        <file>icons/icons8-resume-button-48.png</file>
+        <file>icons/icons8-rewind-48.png</file>
+        <file>icons/icons8-shuffle-48.png</file>
+        <file>icons/icons8-skip-to-start-48.png</file>
+        <file>icons/icons8-stop-48.png</file>
+        <file>dark-style.css</file>
+    </qresource>
+</RCC>
